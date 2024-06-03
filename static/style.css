@@ -1,0 +1,22 @@
+
+        chat-container {
+            max-width: 600px;
+            margin: 50px auto;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        message {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 10px;
+        }
+        user-message {
+            background-color: #d1e7dd;
+            text-align: right;
+        }
+        response-message {
+            background-color: #f8d7da;
+            text-align: left;
+        }
+ 
